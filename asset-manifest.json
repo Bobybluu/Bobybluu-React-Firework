@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bobybluu-React-Firework/static/css/main.e881eac3.css",
+    "main.js": "/Bobybluu-React-Firework/static/js/main.c26cd7c3.js",
+    "static/js/787.46dee24e.chunk.js": "/Bobybluu-React-Firework/static/js/787.46dee24e.chunk.js",
+    "index.html": "/Bobybluu-React-Firework/index.html",
+    "main.e881eac3.css.map": "/Bobybluu-React-Firework/static/css/main.e881eac3.css.map",
+    "main.c26cd7c3.js.map": "/Bobybluu-React-Firework/static/js/main.c26cd7c3.js.map",
+    "787.46dee24e.chunk.js.map": "/Bobybluu-React-Firework/static/js/787.46dee24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e881eac3.css",
+    "static/js/main.c26cd7c3.js"
+  ]
+}
